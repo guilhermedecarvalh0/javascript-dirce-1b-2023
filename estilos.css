@@ -1,0 +1,13 @@
+fuction tocaSom(idelementoAudio){
+documment.querySelectorALL(".tecla');
+const listaDeTeclas=document.querySelectorALL('.tecla');
+\\para
+for (let contador=0;contador<listaDeTeclas.length;contaor++) 
+const tecla=listaDeTeclas[contador];
+const instrumento=tecla.classsList[1]
+const Id Auio=#som_${instrumento};\\tempplate string
+
+
+
+tecla.onclinck=fuction(){
+    tocaSom(id Audio);
